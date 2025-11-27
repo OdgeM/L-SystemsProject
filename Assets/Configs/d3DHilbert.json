@@ -1,0 +1,30 @@
+﻿{
+	"name": "3D Hilbert",
+	"variables": ["F"],
+	"constants": ["[", "]", "+", "-"],
+	"axiom": "A",
+	"rules":
+	[
+		{"key": "A", "value": "B-F+CFC+F-D&F^D-F+&&CFC+F+B//"},
+		{"key": "B", "value": "A&F^CFB^F^D^^-F-D^|F^B|FC^F^A//"},
+		{"key": "C", "value": "|D^|F^B-F+C^F^A&&FA&F^C+F+B^F^D//"},
+		{"key": "D", "value": "|CFB-F+B|FA&F^A&&FB-F+B|FC//"}
+	],
+	"commands":
+	[
+		{"key": "F", "type": {"type": 0, "amount": 0.1}},
+		{"key": "[", "type": {"type": 3, "amount": 0.0}},
+		{"key": "]", "type": {"type": 2, "amount": 0.0}},
+		{"key": "+", "type": {"type": 1, "amount": 90}},
+		{"key": "-", "type": {"type": 1, "amount": -90}},
+		{"key": "&", "type": {"type": 4, "amount": 90}},
+		{"key": "^", "type": {"type": 4, "amount": -90}},
+		{"key": "\\", "type": {"type": 5, "amount": 90}},
+		{"key": "/", "type": {"type": 5, "amount": -90}},
+		{"key": "|", "type": {"type": 1, "amount": -180}}
+
+	],
+	"n": 3,
+	"lineWidth": 1
+}
+

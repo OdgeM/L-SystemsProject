@@ -1,0 +1,21 @@
+﻿{
+	"name": "Config B",
+	"variables": ["F"],
+	"constants": ["[", "]", "+", "-"],
+	"axiom": "F",
+	"rules":
+	[
+		{"key": "F", "value": "F[+F]F[-F][F]"}
+	],
+	"commands":
+	[
+		{"key": "F", "type": {"type": 0, "amount": 0.1}},
+		{"key": "[", "type": {"type": 3, "amount": 0.0}},
+		{"key": "]", "type": {"type": 2, "amount": 0.0}},
+		{"key": "+", "type": {"type": 1, "amount": 20}},
+		{"key": "-", "type": {"type": 1, "amount": -20}}
+	],
+	"n": 5,
+	"lineWidth": 1
+}
+

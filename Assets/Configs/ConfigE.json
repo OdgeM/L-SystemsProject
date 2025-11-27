@@ -1,0 +1,22 @@
+﻿{
+	"name": "Config E",
+	"variables": ["F", "X"],
+	"constants": ["[", "]", "+", "-"],
+	"axiom": "X",
+	"rules":
+	[
+		{"key": "X", "value": "F[+X][-X]FX"},
+		{"key": "F", "value": "FF"}
+	],
+	"commands":
+	[
+		{"key": "F", "type": {"type": 0, "amount": 0.1}},
+		{"key": "[", "type": {"type": 3, "amount": 0.0}},
+		{"key": "]", "type": {"type": 2, "amount": 0.0}},
+		{"key": "+", "type": {"type": 1, "amount": 25.7}},
+		{"key": "-", "type": {"type": 1, "amount": -25.7}}
+	],
+	"n": 7,
+	"lineWidth": 4
+}
+
