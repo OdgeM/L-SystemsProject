@@ -1,0 +1,336 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{lindenmayer}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=5d4294b94133425c7709fd0292a3fa25}{%
+           family={Lindenmayer},
+           familyi={L\bibinitperiod},
+           given={Aristid},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{5d4294b94133425c7709fd0292a3fa25}
+      \strng{fullhash}{5d4294b94133425c7709fd0292a3fa25}
+      \strng{fullhashraw}{5d4294b94133425c7709fd0292a3fa25}
+      \strng{bibnamehash}{5d4294b94133425c7709fd0292a3fa25}
+      \strng{authorbibnamehash}{5d4294b94133425c7709fd0292a3fa25}
+      \strng{authornamehash}{5d4294b94133425c7709fd0292a3fa25}
+      \strng{authorfullhash}{5d4294b94133425c7709fd0292a3fa25}
+      \strng{authorfullhashraw}{5d4294b94133425c7709fd0292a3fa25}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A theory is proposed for the development of filamentous organisms, based on the assumptions that the filaments are composed of cells which undergo changes of state under inputs they receive from their neighbors, and the cells produce outputs as determined by their state and the input they receive. Cell division is accounted for by inserting two new cells in the filament to replace a cell of a specified state and input. Thus growing filaments are obtained which exhibit various developmental patterns, like constant apical pattern, non-dividing apical zone, and banded patterns. In this first part of this study the inputs are considered to pass only in one direction along the filament. Formal set-theoretical statement of the assumptions, and of some of the theorems derivable from them, is included.}
+      \field{issn}{0022-5193}
+      \field{journaltitle}{Journal of Theoretical Biology}
+      \field{number}{3}
+      \field{title}{Mathematical models for cellular interactions in development I. Filaments with one-sided inputs}
+      \field{volume}{18}
+      \field{year}{1968}
+      \field{pages}{280\bibrangedash 299}
+      \range{pages}{20}
+      \verb{doi}
+      \verb https://doi.org/10.1016/0022-5193(68)90079-9
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/0022519368900799
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/0022519368900799
+      \endverb
+    \endentry
+    \entry{graphical}{inproceedings}{}{}
+      \name{author}{1}{}{%
+        {{hash=cb623beea760d86c77f12cc80cff6528}{%
+           family={Prusinkiewicz},
+           familyi={P\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Vancouver, British Columbia, Canada}%
+      }
+      \list{publisher}{1}{%
+        {Canadian Information Processing Society}%
+      }
+      \strng{namehash}{cb623beea760d86c77f12cc80cff6528}
+      \strng{fullhash}{cb623beea760d86c77f12cc80cff6528}
+      \strng{fullhashraw}{cb623beea760d86c77f12cc80cff6528}
+      \strng{bibnamehash}{cb623beea760d86c77f12cc80cff6528}
+      \strng{authorbibnamehash}{cb623beea760d86c77f12cc80cff6528}
+      \strng{authornamehash}{cb623beea760d86c77f12cc80cff6528}
+      \strng{authorfullhash}{cb623beea760d86c77f12cc80cff6528}
+      \strng{authorfullhashraw}{cb623beea760d86c77f12cc80cff6528}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings on Graphics Interface '86/Vision Interface '86}
+      \field{title}{Graphical applications of L-systems}
+      \field{year}{1986}
+      \field{pages}{247\bibrangedash 253}
+      \range{pages}{7}
+    \endentry
+    \entry{city}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{hash=e65bc06b26462bc406e2d6797f25db51}{%
+           family={Parish},
+           familyi={P\bibinitperiod},
+           given={Yoav\bibnamedelimb I.\bibnamedelimi H.},
+           giveni={Y\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=59eaa4faadcc9a82b682e65157b128ef}{%
+           family={Müller},
+           familyi={M\bibinitperiod},
+           given={Pascal},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{b636ed5cb957573942d7cb24b03ed8ba}
+      \strng{fullhash}{b636ed5cb957573942d7cb24b03ed8ba}
+      \strng{fullhashraw}{b636ed5cb957573942d7cb24b03ed8ba}
+      \strng{bibnamehash}{b636ed5cb957573942d7cb24b03ed8ba}
+      \strng{authorbibnamehash}{b636ed5cb957573942d7cb24b03ed8ba}
+      \strng{authornamehash}{b636ed5cb957573942d7cb24b03ed8ba}
+      \strng{authorfullhash}{b636ed5cb957573942d7cb24b03ed8ba}
+      \strng{authorfullhashraw}{b636ed5cb957573942d7cb24b03ed8ba}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Modeling a city poses a number of problems to computer graphics. Every urban area has a transportation network that follows population and environmental influences, and often a superimposed pattern plan. The buildings appearances follow historical, aesthetic and statutory rules. To create a virtual city, a roadmap has to be designed and a large number of buildings need to be generated. We propose a system using a procedural approach based on L-systems to model cities. From various image maps given as input, such as land-water boundaries and population density, our system generates a system of highways and streets, divides the land into lots, and creates the appropriate geometry for the buildings on the respective allotments. For the creation of a city street map, L-systems have been extended with methods that allow the consideration of global goals and local constraints and reduce the complexity of the production rules. An L-system that generates geometry and a texturing system based on texture elements and procedural methods compose the buildings.}
+      \field{booktitle}{Proceedings of the 28th Annual Conference on Computer Graphics and Interactive Techniques}
+      \field{isbn}{158113374X}
+      \field{series}{SIGGRAPH '01}
+      \field{title}{Procedural modeling of cities}
+      \field{year}{2001}
+      \field{pages}{301\bibrangedash 308}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1145/383259.383292
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/383259.383292
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/383259.383292
+      \endverb
+      \keyw{L-system,architecture,developmental models,modeling,software design,urban development}
+    \endentry
+    \entry{hornby}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=c9346aef4c26da08b0a8123fe60db92e}{%
+           family={Hornby},
+           familyi={H\bibinitperiod},
+           given={Gregory\bibnamedelima S.},
+           giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=d264d15de1a7b88564cae3c2fb1c3173}{%
+           family={Pollack},
+           familyi={P\bibinitperiod},
+           given={Jordan\bibnamedelima B.},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{753fcce1138271c054d3ba94af3b57ca}
+      \strng{fullhash}{753fcce1138271c054d3ba94af3b57ca}
+      \strng{fullhashraw}{753fcce1138271c054d3ba94af3b57ca}
+      \strng{bibnamehash}{753fcce1138271c054d3ba94af3b57ca}
+      \strng{authorbibnamehash}{753fcce1138271c054d3ba94af3b57ca}
+      \strng{authornamehash}{753fcce1138271c054d3ba94af3b57ca}
+      \strng{authorfullhash}{753fcce1138271c054d3ba94af3b57ca}
+      \strng{authorfullhashraw}{753fcce1138271c054d3ba94af3b57ca}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Virtual creatures play an increasingly important role in computer graphics as special effects and background characters. The artificial evolution of such creatures potentially offers some relief from the difficult and time consuming task of specifying morphologies and behaviors. But, while artificial life techniques have been used to create a variety of virtual creatures, previous work has not scaled beyond creatures with 50 components and the most recent work has generated creatures that are unnatural looking. Here we describe a system that uses Lindenmayer systems (L-systems) as the encoding of an evolutionary algorithm (EA) for creating virtual creatures. Creatures evolved by this system have hundreds of parts, and the use of an L-system as the encoding results in creatures with a more natural look.}
+      \field{issn}{0097-8493}
+      \field{journaltitle}{Computers \& Graphics}
+      \field{note}{Artificial Life}
+      \field{number}{6}
+      \field{title}{Evolving L-systems to generate virtual creatures}
+      \field{volume}{25}
+      \field{year}{2001}
+      \field{pages}{1041\bibrangedash 1048}
+      \range{pages}{8}
+      \verb{doi}
+      \verb https://doi.org/10.1016/S0097-8493(01)00157-1
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0097849301001571
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0097849301001571
+      \endverb
+      \keyw{Animation,Artificial life,Representation,Intelligent agents,Lindenmayer systems (L-systems)}
+    \endentry
+    \entry{Hanan}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{hash=8e492ee35383af67c8a649508bbb069a}{%
+           family={Hanan},
+           familyi={H\bibinitperiod},
+           given={James\bibnamedelima Scott},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The University of Regina (Canada)}%
+      }
+      \strng{namehash}{8e492ee35383af67c8a649508bbb069a}
+      \strng{fullhash}{8e492ee35383af67c8a649508bbb069a}
+      \strng{fullhashraw}{8e492ee35383af67c8a649508bbb069a}
+      \strng{bibnamehash}{8e492ee35383af67c8a649508bbb069a}
+      \strng{authorbibnamehash}{8e492ee35383af67c8a649508bbb069a}
+      \strng{authornamehash}{8e492ee35383af67c8a649508bbb069a}
+      \strng{authorfullhash}{8e492ee35383af67c8a649508bbb069a}
+      \strng{authorfullhashraw}{8e492ee35383af67c8a649508bbb069a}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this dissertation, parametric L-systems are presented as the foundation of a computer graphics tool for simulating and visualizing the development of plants. L-systems were introduced in 1968 by Aristid Lindenmayer as a mathematical model of multicellular organisms. They employ a parallel string-rewriting mechanism to describe the development of branching structures. The resulting strings can be interpreted geometrically and visualized using computer graphics techniques to create both realistic and schematic images of the modelled structures. The formalism can be applied for a variety of scientific, educational, and commercial purposes.Parametric L-systems extend the original concept of L-systems by associating numerical parameters with the symbols representing plant components. This allows easy quantification of geometric attributes of a model, and provides a simple means for the expression of continuous processes, such as diffusion of hormones and the resulting distribution of concentrations. Formal definitions are proposed for context-free and context-sensitive parametric L-systems with either deterministic or stochastic application of production rules.The practical value of parametric L-systems is demonstrated in this dissertation by examples that include models of plants ranging from algae to trees. Model development is controlled by lineage mechanisms, with information passed from parent to child module. This mechanism is combined in some models with endogenous interaction, where information flows through a growing structure. Selected models are suitable for simulating time-lapse photography through computer animation.Extensions to the formalism of parametric L-systems incorporate useful features of other programming languages and provide techniques for creating hierarchical models.}
+      \field{isbn}{031583871X}
+      \field{note}{AAINN83871}
+      \field{title}{Parametric l-systems and their application to the modelling and visualization of plants}
+      \field{type}{phdthesis}
+      \field{year}{1992}
+    \endentry
+    \entry{chomsky}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=8e69e2dec38581003537abdb261651d0}{%
+           family={Chomsky},
+           familyi={C\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{8e69e2dec38581003537abdb261651d0}
+      \strng{fullhash}{8e69e2dec38581003537abdb261651d0}
+      \strng{fullhashraw}{8e69e2dec38581003537abdb261651d0}
+      \strng{bibnamehash}{8e69e2dec38581003537abdb261651d0}
+      \strng{authorbibnamehash}{8e69e2dec38581003537abdb261651d0}
+      \strng{authornamehash}{8e69e2dec38581003537abdb261651d0}
+      \strng{authorfullhash}{8e69e2dec38581003537abdb261651d0}
+      \strng{authorfullhashraw}{8e69e2dec38581003537abdb261651d0}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IRE Transactions on Information Theory}
+      \field{number}{3}
+      \field{title}{Three models for the description of language}
+      \field{volume}{2}
+      \field{year}{1956}
+      \field{pages}{113\bibrangedash 124}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1109/TIT.1956.1056813
+      \endverb
+      \keyw{Natural languages;Testing;Laboratories;Markov processes;Impedance matching;Kernel;Research and development}
+    \endentry
+    \entry{turtle}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=9d498f19d0ecec78ed8839d5d872ba8b}{%
+           family={Abelson},
+           familyi={A\bibinitperiod},
+           given={Harold},
+           giveni={H\bibinitperiod}}}%
+        {{hash=dec9c750eba36f322e6c1a213641e634}{%
+           family={diSessa},
+           familyi={d\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The MIT Press}%
+      }
+      \strng{namehash}{fdda2698a91abf051718be5239b7b085}
+      \strng{fullhash}{fdda2698a91abf051718be5239b7b085}
+      \strng{fullhashraw}{fdda2698a91abf051718be5239b7b085}
+      \strng{bibnamehash}{fdda2698a91abf051718be5239b7b085}
+      \strng{authorbibnamehash}{fdda2698a91abf051718be5239b7b085}
+      \strng{authornamehash}{fdda2698a91abf051718be5239b7b085}
+      \strng{authorfullhash}{fdda2698a91abf051718be5239b7b085}
+      \strng{authorfullhashraw}{fdda2698a91abf051718be5239b7b085}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Turtle Geometry presents an innovative program of mathematical discovery that demonstrates how the effective use of personal computers can profoundly change the nature of a student's contact with mathematics. Using this book and a few simple computer programs, students can explore the properties of space by following an imaginary turtle across the screen. The concept of turtle geometry grew out of the Logo Group at MIT. Directed by Seymour Papert, author of Mindstorms, this group has done extensive work with preschool children, high school students and university undergraduates.The open access edition of this book was made possible by generous funding from Arcadia – a charitable fund of Lisbet Rausing and Peter Baldwin.}
+      \field{isbn}{9780262362740}
+      \field{month}{06}
+      \field{title}{Turtle Geometry: The Computer as a Medium for Exploring Mathematics}
+      \field{year}{1981}
+      \verb{doi}
+      \verb 10.7551/mitpress/6933.001.0001
+      \endverb
+      \verb{eprint}
+      \verb https://direct.mit.edu/book-pdf/2292124/book_9780262362740.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.7551/mitpress/6933.001.0001
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.7551/mitpress/6933.001.0001
+      \endverb
+    \endentry
+    \entry{abop}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=cb623beea760d86c77f12cc80cff6528}{%
+           family={Prusinkiewicz},
+           familyi={P\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=5d4294b94133425c7709fd0292a3fa25}{%
+           family={Lindenmayer},
+           familyi={L\bibinitperiod},
+           given={Aristid},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag}%
+      }
+      \strng{namehash}{fc55a0075d9b6041777200e3f6259d25}
+      \strng{fullhash}{fc55a0075d9b6041777200e3f6259d25}
+      \strng{fullhashraw}{fc55a0075d9b6041777200e3f6259d25}
+      \strng{bibnamehash}{fc55a0075d9b6041777200e3f6259d25}
+      \strng{authorbibnamehash}{fc55a0075d9b6041777200e3f6259d25}
+      \strng{authornamehash}{fc55a0075d9b6041777200e3f6259d25}
+      \strng{authorfullhash}{fc55a0075d9b6041777200e3f6259d25}
+      \strng{authorfullhashraw}{fc55a0075d9b6041777200e3f6259d25}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0387972978}
+      \field{title}{The algorithmic beauty of plants}
+      \field{year}{1990}
+    \endentry
+  \enddatalist
+  \missing{hanan}
+\endrefsection
+\endinput
+
