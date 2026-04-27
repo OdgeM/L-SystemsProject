@@ -6,7 +6,9 @@
 \usepackage{amsmath}
 \usepackage{titlesec}
 \usepackage{subcaption}
-\addbibresource{references.bib}
+\usepackage[multiple]{footmisc}
+\usepackage{bigfoot}
+%\addbibresource{references.bib}
 \usepackage{geometry}
  \geometry{
  a4paper,
@@ -14,10 +16,13 @@
  left=20mm,
  top=20mm,
  }
+\DeclareNewFootnote{Affil}[arabic]
+
 
 \begin{document}
 
 \begin{titlepage}
+
    \begin{center}
        \vspace*{1cm}
 
@@ -29,8 +34,7 @@ IS71021E Assignment 1
             
        \vspace{1.5cm}
 
-       \textbf{Oliver J. Martin}
-\\MSc Computer Games Programming
+\author{Quince Gore-Rodney \footnoteAffil{MA/MSc Virtual and Augmented Reality}, Damian Lau\footnotemarkAffil[1], Oliver J. Martin}
        \vfill
             
        
@@ -41,7 +45,7 @@ IS71021E Assignment 1
             
 \vspace{0.7cm}
 
-       Department of Computing\\
+    
        Goldsmiths, University of London\\
 \today
             

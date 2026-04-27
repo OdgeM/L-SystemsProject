@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.22)  27 NOV 2025 23:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.22)  6 FEB 2026 19:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -435,60 +435,111 @@ Package caption Info: New subtype `subfigure' on input line 238.
 \c@subfigure=\count425
 Package caption Info: New subtype `subtable' on input line 238.
 \c@subtable=\count426
-) (C:\Users\ojmar\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+) (C:\Users\ojmar\AppData\Local\Programs\MiKTeX\tex/latex/footmisc\footmisc.sty
+Package: footmisc 2025/05/09 v7.0b a miscellany of footnote facilities
+\FN@temptoken=\toks26
+\footnotemargin=\dimen173
+Package footmisc Info: Declaring symbol style bringhurst on input line 549.
+Package footmisc Info: Declaring symbol style chicago on input line 557.
+Package footmisc Info: Declaring symbol style wiley on input line 566.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 577.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 597.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 618
+.
+) (C:\Users\ojmar\AppData\Local\Programs\MiKTeX\tex/latex/bigfoot\bigfoot.sty
+Package: bigfoot 2015/08/30 2.1 makes footnotes work
+
+(C:\Users\ojmar\AppData\Local\Programs\MiKTeX\tex/latex/ncctools\manyfoot.sty
+Package: manyfoot 2019/08/03 v1.11 Many Footnote Levels Package (NCC)
+
+(C:\Users\ojmar\AppData\Local\Programs\MiKTeX\tex/latex/ncctools\nccfoots.sty
+Package: nccfoots 2005/02/03 v1.2 NCC Footnotes Package (NCC)
+)
+\MFL@columnwidth=\dimen174
+) (C:\Users\ojmar\AppData\Local\Programs\MiKTeX\tex/latex/bigfoot\suffix.sty
+Package: suffix 2006/07/15 1.5a Variant command support
+)
+(C:\Users\ojmar\AppData\Local\Programs\MiKTeX\tex/latex/bigfoot\perpage.sty
+Package: perpage 2014/10/25 2.0 Reset/sort counters per page
+\c@abspage=\count427
+)
+\footnotewidowpenalty=\count428
+\footnoteclubpenalty=\count429
+\finalfootnotewidowpenalty=\count430
+\c@FN@totalid=\count431
+\c@pp@a@FN@totalid=\count432
+\FN@id=\count433
+\FN@master=\marks4
+\FN@slave=\marks5
+\FN@color=\marks6
+\FN@outervsize=\dimen175
+\FN@vsize=\skip78
+\FN@insertions=\box56
+\FN@output=\toks27
+\FN@tempbox=\box57
+\FN@savebox=\insert252
+\FN@topmarkbox=\box58
+\FN@outputflag=\count434
+\FN@myvsize=\dimen176
+\bigfoottolerance=\count435
+)
+(C:\Users\ojmar\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
 (C:\Users\ojmar\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count427
-\Gm@cntv=\count428
-\c@Gm@tempcnt=\count429
-\Gm@bindingoffset=\dimen173
-\Gm@wd@mp=\dimen174
-\Gm@odd@mp=\dimen175
-\Gm@even@mp=\dimen176
-\Gm@layoutwidth=\dimen177
-\Gm@layoutheight=\dimen178
-\Gm@layouthoffset=\dimen179
-\Gm@layoutvoffset=\dimen180
-\Gm@dimlist=\toks26
+\Gm@cnth=\count436
+\Gm@cntv=\count437
+\c@Gm@tempcnt=\count438
+\Gm@bindingoffset=\dimen177
+\Gm@wd@mp=\dimen178
+\Gm@odd@mp=\dimen179
+\Gm@even@mp=\dimen180
+\Gm@layoutwidth=\dimen181
+\Gm@layoutheight=\dimen182
+\Gm@layouthoffset=\dimen183
+\Gm@layoutvoffset=\dimen184
+\Gm@dimlist=\toks28
 
 (C:\Users\ojmar\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
-\@quotelevel=\count430
-\@quotereset=\count431
+\footinsAffil=\insert251
+\c@footnoteAffil=\count439
+\@quotelevel=\count440
+\@quotereset=\count441
 (Report.aux)
 \openout1 = `Report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
 
 (C:\Users\ojmar\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count432
-\scratchdimen=\dimen181
-\scratchbox=\box56
-\nofMPsegments=\count433
-\nofMParguments=\count434
-\everyMPshowfont=\toks27
-\MPscratchCnt=\count435
-\MPscratchDim=\dimen182
-\MPnumerator=\count436
-\makeMPintoPDFobject=\count437
-\everyMPtoPDFconversion=\toks28
+\scratchcounter=\count442
+\scratchdimen=\dimen185
+\scratchbox=\box59
+\nofMPsegments=\count443
+\nofMParguments=\count444
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count445
+\MPscratchDim=\dimen186
+\MPnumerator=\count446
+\makeMPintoPDFobject=\count447
+\everyMPtoPDFconversion=\toks30
 )
 (C:\Users\ojmar\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -523,10 +574,13 @@ Package biblatex Warning: The following entry could not be found
 (biblatex)                LaTeX afterwards.
 
 )
-Package biblatex Info: Reference section=0 on input line 18.
-Package biblatex Info: Reference segment=0 on input line 18.
+Package biblatex Info: Reference section=0 on input line 22.
+Package biblatex Info: Reference segment=0 on input line 22.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
+\FN@cache251=\box60
+\footinsdefault=\insert250
+\FN@cache250=\box61
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -565,7 +619,7 @@ Package caption Info: End \AtBeginDocument code.
 <images/Tree.png, id=1, 432.61626pt x 432.61626pt>
 File: images/Tree.png Graphic file (type png)
 <use images/Tree.png>
-Package pdftex.def Info: images/Tree.png  used on input line 38.
+Package pdftex.def Info: images/Tree.png  used on input line 42.
 (pdftex.def)             Requested size: 193.47577pt x 193.4741pt.
 
 
@@ -573,78 +627,75 @@ Package pdftex.def Info: images/Tree.png  used on input line 38.
 
 {C:/Users/ojmar/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images/Tre
 e.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 57--58
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
 
  []
 
 
 
 [1]
-Underfull \hbox (badness 10000) in paragraph at lines 102--103
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
 
  []
-
-
-LaTeX Warning: Citation 'hanan' on page 2 undefined on input line 114.
 
 
 
 [2]
 LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 127.
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 131.
 
 
 [3]
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 149--152
+Underfull \hbox (badness 10000) in paragraph at lines 153--156
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 164--165
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 167--170
+Underfull \hbox (badness 10000) in paragraph at lines 171--174
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 177--180
+Underfull \hbox (badness 10000) in paragraph at lines 181--184
 
  []
 
 
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 187--190
+Underfull \hbox (badness 10000) in paragraph at lines 191--194
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 196--197
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 210--213
+Underfull \hbox (badness 10000) in paragraph at lines 214--217
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 220--223
+Underfull \hbox (badness 10000) in paragraph at lines 224--227
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--231
+Underfull \hbox (badness 10000) in paragraph at lines 233--235
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 250--252
+Underfull \hbox (badness 10000) in paragraph at lines 254--256
 
  []
 
@@ -652,58 +703,58 @@ Underfull \hbox (badness 10000) in paragraph at lines 250--252
 
 [6]
 LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 2
-65.
+69.
  (C:\Users\ojmar\AppData\Local\Programs\MiKTeX\tex/latex/base\omscmr.fd
 File: omscmr.fd 2024/11/19 v2.5n Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 265.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 269.
 <images/A.png, id=38, 1927.2pt x 1204.5pt>
 File: images/A.png Graphic file (type png)
 <use images/A.png>
-Package pdftex.def Info: images/A.png  used on input line 278.
+Package pdftex.def Info: images/A.png  used on input line 282.
 (pdftex.def)             Requested size: 338.5863pt x 211.59933pt.
 <images/B.png, id=39, 1927.2pt x 1204.5pt>
 File: images/B.png Graphic file (type png)
 <use images/B.png>
-Package pdftex.def Info: images/B.png  used on input line 283.
+Package pdftex.def Info: images/B.png  used on input line 287.
 (pdftex.def)             Requested size: 338.5863pt x 211.59933pt.
 <images/C.png, id=40, 1927.2pt x 1204.5pt>
 File: images/C.png Graphic file (type png)
 <use images/C.png>
-Package pdftex.def Info: images/C.png  used on input line 288.
+Package pdftex.def Info: images/C.png  used on input line 292.
 (pdftex.def)             Requested size: 338.5863pt x 211.59933pt.
 
 
-LaTeX Warning: Float too large for page by 3.36214pt on input line 292.
+LaTeX Warning: Float too large for page by 3.36214pt on input line 296.
 
 <images/D.png, id=41, 1927.2pt x 1204.5pt>
 File: images/D.png Graphic file (type png)
 <use images/D.png>
-Package pdftex.def Info: images/D.png  used on input line 297.
+Package pdftex.def Info: images/D.png  used on input line 301.
 (pdftex.def)             Requested size: 338.5863pt x 211.59933pt.
 <images/E.png, id=42, 1927.2pt x 1204.5pt>
 File: images/E.png Graphic file (type png)
 <use images/E.png>
-Package pdftex.def Info: images/E.png  used on input line 302.
+Package pdftex.def Info: images/E.png  used on input line 306.
 (pdftex.def)             Requested size: 338.5863pt x 211.59933pt.
 <images/F.png, id=43, 1927.2pt x 1204.5pt>
 File: images/F.png Graphic file (type png)
 <use images/F.png>
-Package pdftex.def Info: images/F.png  used on input line 307.
+Package pdftex.def Info: images/F.png  used on input line 311.
 (pdftex.def)             Requested size: 338.5863pt x 211.59933pt.
 
-LaTeX Warning: Float too large for page by 3.36214pt on input line 311.
+LaTeX Warning: Float too large for page by 3.36214pt on input line 315.
 
 <images/Cube.png, id=44, 1927.2pt x 1204.5pt>
 File: images/Cube.png Graphic file (type png)
 <use images/Cube.png>
-Package pdftex.def Info: images/Cube.png  used on input line 316.
+Package pdftex.def Info: images/Cube.png  used on input line 320.
 (pdftex.def)             Requested size: 483.69684pt x 302.30052pt.
 <images/TreeFig.png, id=45, 1927.2pt x 1204.5pt>
 File: images/TreeFig.png Graphic file (type png)
 <use images/TreeFig.png>
-Package pdftex.def Info: images/TreeFig.png  used on input line 333.
+Package pdftex.def Info: images/TreeFig.png  used on input line 337.
 (pdftex.def)             Requested size: 483.69684pt x 302.30052pt.
 
 
@@ -722,18 +773,27 @@ Package pdftex.def Info: images/TreeFig.png  used on input line 333.
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                Report
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'Report.run.xml'.
 \openout1 = `Report.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 12738 strings out of 468081
- 238748 string characters out of 5425788
- 1077647 words of memory out of 5000000
- 41309 multiletter control sequences out of 15000+600000
+ 13308 strings out of 468081
+ 248751 string characters out of 5425788
+ 1094394 words of memory out of 5000000
+ 41858 multiletter control sequences out of 15000+600000
  635280 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 67i,12n,77p,1929b,1459s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 67i,12n,77p,1929b,1460s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\ojmar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1200.pk><C:/Users/ojmar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmbx12.pfb><C:/Users/ojmar/AppData/Local/Programs/MiKTeX/fonts/type1/publ
@@ -750,7 +810,7 @@ nts/cm/cmsy10.pfb><C:/Users/ojmar/AppData/Local/Programs/MiKTeX/fonts/type1/pub
 lic/amsfonts/cm/cmsy8.pfb><C:/Users/ojmar/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmti12.pfb><C:/Users/ojmar/AppData/Local/Programs/MiKTe
 X/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Report.pdf (13 pages, 989478 bytes).
+Output written on Report.pdf (13 pages, 989189 bytes).
 PDF statistics:
  135 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
